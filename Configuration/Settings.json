@@ -1,0 +1,46 @@
+{
+
+    "Server": {
+        "Id": "SERVER_ID",
+        "Tag": "TAG",
+        "Register_Name": "GIRIS_ISIM"
+    },
+
+    "Roles": {
+        "Register_Permission": "KAYIT_YETKİLİSİ_ROL_ID",
+        "Unregistered": "KAYITSIZ_ROL_ID",
+        "Man": ["ERKEK_ROL_ID"],
+        "Women": ["KIZ_ROL_ID"],
+        "Booster": "BOOSTER_ROL_ID",
+        "Tagged": "TAGLI_ROL_ID",
+        "Bots": "BOT_ROL_ID"
+    },
+
+    "Channels": {
+        "Register_Chat": "KAYIT_KANAL_ID",
+        "Welcome": "HOSGELDINIZ_KANAL_ID"
+    },
+
+    "Limits": {
+        "Age_Limit": 0,
+        "Cooldown": 2000
+    },
+
+    "Emojis": {
+        "Check": "",
+        "Delete": "",
+        "Safe": "",
+        "Dangerous": "",
+        "Emoji_1": "",
+        "Emoji_2": "",
+        "Emoji_3": "",
+        "Emoji_4": "",
+        "Emoji_5": ""
+    },
+
+    "Embed": {
+        "Color": "RANDOM",
+        "Footer": "Safe Code ❤ Salvatore",
+        "Timeout": 10000
+    }
+}

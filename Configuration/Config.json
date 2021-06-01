@@ -1,0 +1,13 @@
+{
+    
+    "Bot": {
+        "Token": "TOKEN",
+        "Prefix": "!",
+        "Sahip": "OWNER_ID",
+        "Activity": "Safe Code <3",
+        "Status_Type": "PLAYING",
+        "Status": "idle",
+        "Voice_Channel": "BOT_SES_KANAL_ID"
+    }
+
+}

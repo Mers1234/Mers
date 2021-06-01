@@ -1,0 +1,17 @@
+{
+  "name": "salvo-kayit-botu",
+  "version": "1.0.0",
+  "description": "Salvo Code v12 Public Kayıt Botu",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Salvatore",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "fs": "0.0.1-security",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2"
+  }
+}
